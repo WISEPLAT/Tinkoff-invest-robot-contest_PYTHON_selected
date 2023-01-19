@@ -1,0 +1,33 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+++tinkoff-trading-bot-develop.zip                    = *WINNER* хорошо реализовано CLASS STRATEGY  - можно взять функции + Асинхронность!
+++invest-bot-main.zip                                = -+ мудрено очень  + Асинхронность! + TG bot
+++tinkoff-invest-volume-analysis-robot-master.zip    = хорошо реализованно - можно взять функции merge_two_frames + Асинхронность!
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
++Tinkoff-stream-grid-bot-main.zip	                = +простота реализации sqlite3 log makefloat makequotation
+
++tinkoff-contest-python-main.zip 	                = -- class TraderRunner - но нет стратегии - можно взять функции start_trader_loop _fetch_current_market_state + Асинхронность!
++trading_bot-master.zip                             = -- мудрено очень rsa!(encrypt/decrypt) sqlite3 - можно взять функции по rsa + Асинхронность! + TG bot
++tinvest_robot-master.zip                           = Нейросеть NLP news analiz sqlite3 scipy - можно взять функции _post_order _get_position_by _get_best_price _get_balance ...
+
++investRobot-master.zip                             = -+ средне реализованно class strategy
++TradingCompetition2022-main.zip                    = -- мудрено очень
++TinkoffBot-main.zip 				                = SynchronizationTwoArray - можно взять эту функцию
++tinkoff_robot-master.zip 			                = -- просто и запутано -можно взять эти функции - convert_price convert_to_MoneyValue convert_to_Quotation
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-+NeuroInvest-main.zip                               = Нейросеть Анализ Свечей kalman sklearn
+-+TinkoffBotTwitch-main.zip                          = бот twitch + трейдинг
+
+-tinkoffSDK-master.zip 				                = -- плохо реализованно, есть телегр. бот
+-sirius-master.zip                                  = -- плохо реализованно
+-TinkoffInvestBot-main.zip                          = -- плохо реализованно
+-tinkoff_trading_contest-main.zip                   = -- плохо реализованно не доделано django
+-tinkoff_trader-master.zip                          = -- плохо реализованно
+-tinkoff_invest_competition-master.zip              = -- плохо реализованно
+-tinkoff_invest_robot-main.zip                      = -- плохо реализованно не доделано flask
+-TI_API_2-master.zip                                = -- плохо реализованно
+-S-TinkoffInvestRobot-main.zip                      = -- плохо реализованно
